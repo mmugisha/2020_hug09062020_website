@@ -341,7 +341,7 @@ section {
 }
 
 #banner #logo h1 {
-    font-size: 28px;
+    font-size: 58px;
     margin-right: 10px;
     font-weight: 900;
     padding: 0;
@@ -353,7 +353,7 @@ section {
 }
 
 #logo img {
-    max-height: 22px;
+    max-height: 122px;
     vertical-align: middle;
     margin-right: 15px;
 }
