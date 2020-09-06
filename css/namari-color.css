@@ -26,13 +26,13 @@ a, .la-ball-triangle-path {
 }
 
 a:hover, #header.nav-solid nav a:hover {
-    color:#d2b356;
+    color:#e83812;
 }
 
 /* Default Icon Color */
 
 .icon i {
-    color:#d2b356;
+    color:#e83812;
 }
 
 /* Border Color */
@@ -68,8 +68,8 @@ a:hover, #header.nav-solid nav a:hover {
 /* Navigation Active State */
 
 #header.nav-solid .active {
-    color: #d2b356;
-    border-color: #d2b356;
+    color: #e83812;
+    border-color: #e83812;
 }    
 
 
@@ -90,7 +90,7 @@ a:hover, #header.nav-solid nav a:hover {
 }
 
 .section-heading h2:after {
-    background:#d2b356;
+    background:#e83812;
     content:"";
     display:block;
     width:30px;
